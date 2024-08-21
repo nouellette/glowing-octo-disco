@@ -5,12 +5,6 @@ const MinHeap = require('min-heap');
 /**
  *  Heap merge
  *
- *  Processing
- *  O(n log k), n is number of elements across all lists and k is the number of lists.
- *
- *  Memory
- *  O(k)
- *
  * 3 Random runs
  * ===========================================
  * Logs printed:            24294
